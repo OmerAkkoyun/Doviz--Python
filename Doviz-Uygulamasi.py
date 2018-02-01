@@ -17,7 +17,7 @@ miktar=float(input("Miktar :"))
 cevir=input("Çevirilecek Para Birimi :")
 print("Güncel Değerler Kontrol ediliyor..")
 time.sleep(2)
-print("Hesaplanıyor..")
+print("Hesaplanıyor...")
 time.sleep(1)
 
 url="https://api.fixer.io/latest?base="
